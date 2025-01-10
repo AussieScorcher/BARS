@@ -9,7 +9,9 @@ Designed for easy use, BARS Ground simulates realistic stopbar operations on VAT
 
 <br>
 
-[![Donate to keep BARS alive and free!](https://img.shields.io/badge/Donate%20to%20keep%20BARS%20alive%20and%20free!-green?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/bars_) 
+<a href="https://ko-fi.com/bars_">
+  <img src="https://img.shields.io/badge/Donate%20to%20keep%20BARS%20alive%20and%20free!-green?style=flat&logo=ko-fi&logoColor=white" alt="Donate to keep BARS alive and free!" style="width:300px;">
+</a>
 
 ## Documentation
 
