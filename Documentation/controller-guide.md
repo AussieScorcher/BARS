@@ -15,6 +15,8 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 ### Installation  
 The BARS Ground plugin can be installed through [Github releases](https://github.com/AussieScorcher/BARS/releases). If the plugin is installed correctly, and your position is selected at a [compatible airport](#compatible-airports), there will be an BARS option in the Window dropdown menu of vatSys.
 
+<br>
+
 <figure>
     <img src="../Assets/BARS_plugin_install.png" width="480">
     <figcaption></figcaption>
