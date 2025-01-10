@@ -3,7 +3,7 @@
 
 # BARS Ground - Stopbar Simulation
 
-BARS Ground revolutionizes your VATSIM experience with realistic Stopbar Simulation. Fully compatible with Microsoft Flight Simulator 2024 and 2020, it integrates effortlessly with both default and third-party sceneries. Our custom installer makes se  tup effortlessly, the pilot client launches automatically with your simulator requiring no extra steps.
+BARS Ground revolutionizes your VATSIM experience with realistic Stopbar Simulation. Fully compatible with Microsoft Flight Simulator 2024 and 2020, it integrates effortlessly with both default and third-party sceneries. Our custom installer makes setup effortlessly, the pilot client launches automatically with your simulator requiring no extra steps.
 
 Designed for easy use, BARS Ground simulates realistic stopbar operations on VATSIM, allowing controllers and pilots to interact with lifelike stopbar procedures. With zero impact on performance, it accurately replicates stopbar usage for taxiing and ground traffic management, creating a more immersive and realistic experience on the VATSIM network.
 
@@ -15,7 +15,7 @@ Designed for easy use, BARS Ground simulates realistic stopbar operations on VAT
 
 ## Installation [![GitHub latest release version](https://img.shields.io/github/v/release/AussieScorcher/BARS.svg?style=flat)](https://github.com/AussieScorcher/BARS/releases/latest) [![Flightsim.to](https://img.shields.io/badge/Flightsim.to-View%20Plugin-blue?logo=flightsim)](https://flightsim.to/)
 
-To install the addon, go to the GitHub releases section and download the latest version. Choose the relevant installer: **"plugin" for controllers** or **"client" for pilots**. Once downloaded, simply run the installer, go through the setups, and everything will automatically be set up for you.
+To install the addon, go to the GitHub releases section and download the latest version. Choose the relevant installer: **"plugin" for controllers** or **"client" for pilots**. Once downloaded, simply run the installer, go through the setups, and everything will automatically be set up for you. Detailed guides for installation for both the client and plugin can be found in  documentation.
 
 ## FAQ
 
