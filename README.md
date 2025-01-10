@@ -146,6 +146,13 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <br>
 
 <figure>
+    <img src="Gallery/BARS_gallery_four.png" width="600">
+    <figcaption></figcaption>
+</figure>
+
+<br>
+
+<figure>
     <img src="Gallery/BARS_gallery_one.png" width="600">
     <figcaption></figcaption>
 </figure>
@@ -154,13 +161,6 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 
 <figure>
     <img src="Gallery/BARS_gallery_two.png" width="600">
-    <figcaption></figcaption>
-</figure>
-
-<br>
-
-<figure>
-    <img src="Gallery/BARS_gallery_three.png" width="600">
     <figcaption></figcaption>
 </figure>
 
