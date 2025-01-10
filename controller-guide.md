@@ -8,7 +8,7 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 > BARS Ground can be an incredibly useful tool to simulate the use of stopbars, but it's use is **not compulsory**. Controllers should revert to the default vatSys usage if the use of BARS Ground is becoming a hinderance to themselve.
 
 > [!NOTE]  
-> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS Ground's stopbar functionality should only be utilised by **Tower (S2) or Approach (S3) controllers**.
+> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS Ground's stopbar functionality should only be utilised by <ins>**Tower (S2) or Approach (S3) controllers**</ins>. BARS Ground will check the connection callsign, as long as you are connected 
 
 ## Setup
 
@@ -18,27 +18,35 @@ The BARS Ground plugin can be installed through [Github Releases](https://github
 ### Connection
 After launching vatSys, the BARS Ground plugin will automatically open. To get started, click the "Claim Airport" button. Additionally, within the control bar a status message will display important information of the current state. This status message will show if the airport is claimed, and what runways, if any are claimed. 
 
+<br>
+
 <figure>
     <img src="Assets/BARS_connection.png" width="450">
-    <figcaption>BARS Ground Connection</figcaption>
+    <figcaption></figcaption>
 </figure>
 
 ### Select Runways
 After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways will appear on the BARS Ground map. Unselected runways will have their stopbars turn green automatically. For operations where multiple ADC controllers are present, see [Duel ADC Positions](#duel-adc-positions).
 
+<br>
+
 <figure>
-    <img src="Assets/BARS_selecting_runways.gif" width="350">
-    <figcaption>BARS Selecting Runways</figcaption>
+    <img src="Assets/BARS_selecting_runways.gif" width="450">
+    <figcaption></figcaption>
 </figure>
 
 ### Control Bar
 
 Once the control bar has been successfully configured, click just above the ground map to minimize it. This action reduces the control bar's size, freeing up additional screen space while still retaining key information at the top, such as connection status, and the current Zulu time.
 
+<br>
+
 <figure>
     <img src="Assets/BARS_control_bar.gif" width="450">
-    <figcaption>BARS Control Bar</figcaption>
+    <figcaption></figcaption>
 </figure>
+
+<br>
 
 ## Compatible Airports
 
@@ -54,9 +62,11 @@ Aircraft on the maneuvering area must stop and hold at all illuminated stopbars,
 
 In the real world, the lights turn on again after a fixed period of time (approximately 45 seconds). This feature has also been implemented, if a controller forgets to reactive the stopbar, after 45 seconds it will come back up.
 
+<br>
+
 <figure>
-    <img src="Assets/BARS_stopbar.gif" width="450">
-    <figcaption>BARS Stopbar</figcaption>
+    <img src="Assets/BARS_stopbar.gif" width="470">
+    <figcaption></figcaption>
 </figure>
 
 ## Runway Crossing
@@ -67,7 +77,9 @@ After coordination has been complete for aircraft to cross a duty runway, it is 
 
 If multiple ADC controllers are present at one airport, each controller will be able to claim the runway within their respective jurisdiction through the [select runways](#select-runways) menu. Once a runway has been claimed, other controllers will no longer be able to claim it.
 
+<br>
+
 <figure>
     <img src="Assets/BARS_duel_adc.png" width="330">
-    <figcaption>BARS Duel ADC</figcaption>
+    <figcaption></figcaption>
 </figure>

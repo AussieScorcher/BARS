@@ -3,7 +3,7 @@
 
 # BARS Ground - Stopbar Simulation
 
-BARS Ground revolutionizes your VATSIM experience with realistic Stopbar Simulation. Fully compatible with Microsoft Flight Simulator 2024 and 2020, it integrates effortlessly with both default and third-party sceneries. Our custom installer makes setup effortlessly, the pilot client launches automatically with your simulator requiring no extra steps.
+BARS Ground revolutionizes your VATSIM experience with realistic Stopbar Simulation. Fully compatible with Microsoft Flight Simulator 2024 and 2020, it integrates effortlessly with both default and third-party sceneries. Our custom installer makes se  tup effortlessly, the pilot client launches automatically with your simulator requiring no extra steps.
 
 Designed for easy use, BARS Ground simulates realistic stopbar operations on VATSIM, allowing controllers and pilots to interact with lifelike stopbar procedures. With zero impact on performance, it accurately replicates stopbar usage for taxiing and ground traffic management, creating a more immersive and realistic experience on the VATSIM network.
 
