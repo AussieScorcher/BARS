@@ -2,6 +2,9 @@
 
 In the real world, aerodrome controllers use stopbars as a bar of illuminated lights preventing aircraft from entering active runways. Within vatSys, this can be emulated using the BARS Ground plugin. Stopbar state is shared between controllers and pilots participating in the plugin.
 
+<br>
+<br>
+
 > [!IMPORTANT]  
 > BARS Ground can be an incredibly useful tool to simulate the use of stopbars, but it's use is **not compulsory**. Controllers should revert to the default vatSys usage if the use of BARS Ground is becoming a hinderance to themselve.
 
