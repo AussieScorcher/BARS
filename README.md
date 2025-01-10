@@ -1,6 +1,3 @@
-<!--
-![Logo](Assets/BARS.png)
---> 
 <img src="https://raw.githubusercontent.com/AussieScorcher/BARS/dev/Assets/BARS.png" width="200" height="200">
 
 
@@ -12,7 +9,7 @@ Designed for easy use, BARS Ground simulates realistic stopbar operations on VAT
 
 ## Documentation
 
-- [Controller SOPs](controller-sops.md)
+- [Controller Guide](controller-guide.md)
 - [Pilot Guide](pilot-guide.md)
 
 
