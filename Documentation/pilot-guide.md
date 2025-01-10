@@ -8,7 +8,7 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 ## Setup
 
 ### Installation  
-The BARS Ground client <ins> for pilots </ins> can be installed through [Github Releases](https://github.com/AussieScorcher/BARS/releases). If the client is installed correctly, you should be able to search for "BARS Client" in windows, once opened the client will be minimzed into the desktop taskbar tray.
+The BARS Ground client <ins> for pilots </ins> can be installed through [Github releases](https://github.com/AussieScorcher/BARS/releases). If the client is installed correctly, you should be able to search for "BARS Client" in windows, once opened the client will be minimzed into the desktop taskbar tray.
 
 <br>
 
