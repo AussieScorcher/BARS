@@ -85,7 +85,7 @@ To install the addon, go to the GitHub releases section and download the latest 
 <details>
 <summary> Is there any documentation available for advanced features? </summary>
 <br>
-<ul> <li> Basic guides and documentation for controllers and pilots are available on the GitHub repository and linked at the top of this readme. </li> </ul>
+<ul> <li> Comprehensive guides and documentation for both controllers and pilots are accessible via the GitHub repository, with direct links provided at the top of this README for ease of access. </li> </ul>
 <br>
 </details>
 
