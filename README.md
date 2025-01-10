@@ -46,7 +46,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> What if I have third party scenery installed? </summary>
 <br>
-<ul> <li> Within the BARS Ground client, navigate to the "Third-Party Scenery" tab. Select the airport ICAO and configure the stopbar placement to match your installed payware scenery under the dropdown. </li> </ul>
+<ul> <li> Within the BARS Ground client, navigate to the "Scenery Section" tab. Select the airport ICAO and configure the stopbar placement to match your installed payware scenery under the dropdown. </li> </ul>
 <br>
 </details>
 
