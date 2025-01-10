@@ -13,9 +13,9 @@ Designed for easy use, BARS Ground simulates realistic stopbar operations on VAT
 - [Pilot Guide](pilot-guide.md)
 
 
-## Installation ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/AussieScorcher/BARS/latest/total) [![Github All Releases download count](https://img.shields.io/github/downloads/AussieScorcher/BARS/total.svg?style=flat)](https://github.com/AussieScorcher/BARS/releases/latest) [![Flightsim.to](https://img.shields.io/badge/Flightsim.to-View%20Plugin-blue?logo=flightsim)](https://flightsim.to/)
+## Installation 
 
-
+[![GitHub latest release version](https://img.shields.io/github/v/release/AussieScorcher/BARS.svg?style=flat)](https://github.com/AussieScorcher/BARS/releases/latest) [![Github All Releases download count](https://img.shields.io/github/downloads/AussieScorcher/BARS/total.svg?style=flat)](https://github.com/AussieScorcher/BARS/releases/latest) [![Flightsim.to](https://img.shields.io/badge/Flightsim.to-View%20Plugin-blue?logo=flightsim)](https://flightsim.to/)
 
 To install the addon, go to the GitHub releases section and download the latest version. Choose the relevant installer: **"plugin" for controllers** or **"client" for pilots**. Once downloaded, simply run the installer, go through the setups, and everything will automatically be set up for you.
 
