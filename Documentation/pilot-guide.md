@@ -53,7 +53,7 @@ To configure BARS Ground for third-party scenery, reopen the BARS Client from th
 | YSSY         | FlyTampa Sydney          |
 | YSCB         | Impulse Sim Canberra     |
 | YMML         | Orbx Melbourne           |
-| YPPH         | Axonox Perth             |
+| YPPH         | Axonos Perth             |
 
 <br>
 
