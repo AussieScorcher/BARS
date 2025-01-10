@@ -13,7 +13,7 @@ Designed for easy use, BARS Ground simulates realistic stopbar operations on VAT
 - [Pilot Guide](pilot-guide.md)
 
 
-## Installation ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/AussieScorcher/BARS/latest/total) [![Flightsim.to](https://img.shields.io/badge/Flightsim.to-View%20Plugin-blue?logo=flightsim)](https://flightsim.to/)
+## Installation ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/AussieScorcher/BARS/latest/total) [![Github All Releases download count](https://img.shields.io/github/downloads/AussieScorcher/BARS/total.svg?style=flat)](https://github.com/AussieScorcher/BARS/releases/latest) [![Flightsim.to](https://img.shields.io/badge/Flightsim.to-View%20Plugin-blue?logo=flightsim)](https://flightsim.to/)
 
 
 
@@ -24,7 +24,7 @@ To install the addon, go to the GitHub releases section and download the latest 
 <details>
 <summary>What controlling clients are supported? </summary>
 <br>
-<ul> <li> Answer </li> </ul>
+<ul> <li> vatSys, within the VATPAC jurisdiction. </li> </ul>
 <br>
 </details>
 
@@ -33,7 +33,7 @@ To install the addon, go to the GitHub releases section and download the latest 
 <details>
 <summary> What simulators are supported? </summary>
 <br>
-<ul> <li> Answer </li> </ul>
+<ul> <li> MSFS 2024, MSFS 2020 </li> </ul>
 <br>
 </details>
 
