@@ -22,7 +22,7 @@ To install the addon, go to the GitHub releases section and download the latest 
 <details>
 <summary>What controlling clients are supported? </summary>
 <br>
-<ul> <li> BARS Ground is compatible with [vatSys](https://virtualairtrafficsystem.com/), specifically within VATPAC’s jurisdiction. </li> </ul>
+<ul> <li> BARS Ground is compatible with vatSys, specifically within VATPAC’s jurisdiction. </li> </ul>
 <br>
 </details>
 
