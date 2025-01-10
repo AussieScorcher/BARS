@@ -22,7 +22,7 @@ The BARS Ground client <ins> for pilots </ins> can be installed through [Github 
 <br>
 
 ### Connection
-Upon launching your preferred simulator, the BARS Ground client will automatically open. Once located at a [compatible airport](#compatible-airports), locate the BARS Client icon in the desktop taskbar tray, right-click, and select "Show." The client will display important information, including the current status, the closest airport, and the number of stopbars spawned. 
+Upon launching your preferred simulator, the BARS Ground client will automatically open. Once located at a [compatible airport](#compatible-airports--scenery), locate the BARS Client icon in the desktop taskbar tray, right-click, and select "Show." The client will display important information, including the current status, the closest airport, and the number of stopbars spawned. 
 
 <br>
 
