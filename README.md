@@ -80,6 +80,13 @@ To install the addon, go to the GitHub releases section and download the latest 
 <br>
 </details>
 
+<details>
+<summary> What happens I want to fly offline the network? </summary>
+<br>
+<ul> <li> When flying offline, BARS Ground does not detect your connection status as offline. As a result, stopbars may still appear in your simulator when ATC is online. To remove this issue, simply close the BARS Ground client from your desktop taskbar try. This will remove the stopbars from your simulator, not affecting your offline experience. </li> </ul>
+<br>
+</details>
+
 ---
 
 <details>
