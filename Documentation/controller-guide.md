@@ -5,10 +5,10 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 <br>
 
 > [!IMPORTANT]  
-> BARS Ground can be an incredibly useful tool to simulate the use of stopbars, but it's use is **not compulsory**. Controllers should revert to the default vatSys usage if the use of BARS Ground is becoming a hinderance to themselve.
+> BARS Ground can be an incredibly useful tool to simulate the use of stopbars, but it's use is **not compulsory**. It is highly recommended controllers should revert to the default vatSys usage if the use of BARS Ground is becoming a hinderance to themselve.
 
 > [!NOTE]  
-> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS Ground's stopbar functionality should only be utilised by <ins>**Tower (S2) or Approach (S3) controllers**</ins>. BARS Ground will check the connection callsign, as long as you are connected 
+> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS Ground's stopbar functionality should only be utilised by **Tower (S2) or Approach (S3) controllers**. BARS Ground will check the connection callsign, as long as you are connected 
 
 ## Setup
 
@@ -26,7 +26,7 @@ After launching vatSys, the BARS Ground plugin will automatically open. To get s
 </figure>
 
 ### Select Runways
-After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways will appear on the BARS Ground map. Unselected runways will have their stopbars turn green automatically. For operations where multiple ADC controllers are present, see [Duel ADC Positions](#duel-adc-positions).
+After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways stopbars will appear on the BARS Ground map. Unselected runways will have their stopbars turn green automatically. For operations where multiple ADC controllers are present, see [Duel ADC Positions](#duel-adc-positions).
 
 <br>
 
@@ -47,14 +47,6 @@ Once the control bar has been successfully configured, click just above the grou
 </figure>
 
 <br>
-
-## Compatible Airports
-
-- YBBN
-- YSSY
-- YSCB
-- YMML
-- YPPH
 
 ## Stopbar Usage
 
@@ -85,3 +77,13 @@ If multiple ADC controllers are present at one airport, each controller will be 
 ## Runway Crossing
 
 After coordination has been complete for aircraft to cross a duty runway, it is ADC's responsibility to drop the stopbar at the relevant crossing point, then reactivate the stopbar once the crossing is complete.
+
+<br>
+
+## Compatible Airports
+
+- YBBN
+- YSSY
+- YSCB
+- YMML
+- YPPH
