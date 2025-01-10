@@ -8,7 +8,7 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 > BARS Ground can be an incredibly useful tool to simulate the use of stopbars, but it's use is **not compulsory**. It is highly recommended controllers should revert to the default vatSys usage if the use of BARS Ground is becoming a hinderance to themselve.
 
 > [!NOTE]  
-> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS Ground's stopbar functionality should only be utilised by **Tower (S2) or Approach (S3) controllers**. BARS Ground will check the connection callsign, as long as you are connected 
+> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS Ground's stopbar functionality should only be utilised by **Tower (S2) or Approach (S3) controllers**. BARS Ground will check the connection callsign, as long as you are connected as Tower or Approach, it will be available.
 
 ## Setup
 
