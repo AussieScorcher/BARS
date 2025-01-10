@@ -116,6 +116,8 @@ To install the addon, go to the GitHub releases section and download the latest 
 <br>
 </details>
 
+If you have any additional questions that you believe would be relevant for this section, please feel free to submit them through the GitHub repository issues or reach out to the maintainers via Discord.
+
 <!----
 ## Gallery
 ![App Screenshot](Assets/)
