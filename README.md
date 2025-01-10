@@ -146,14 +146,14 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <br>
 
 <figure>
-    <img src="Gallery/BARS_gallery_four.png" width="600">
+    <img src="Gallery/BARS_gallery_one.png" width="600">
     <figcaption></figcaption>
 </figure>
 
 <br>
 
 <figure>
-    <img src="Gallery/BARS_gallery_one.png" width="600">
+    <img src="Gallery/BARS_gallery_two.png" width="600">
     <figcaption></figcaption>
 </figure>
 
