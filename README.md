@@ -109,7 +109,9 @@ To install the addon, go to the GitHub releases section and download the latest 
 <br>
 </details>
 
-## Screenshots
-
+<!----
+## Gallery
 ![App Screenshot](Assets/)
+-->
+
 
