@@ -15,6 +15,11 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 ### Installation  
 The BARS Ground plugin can be installed through [Github releases](https://github.com/AussieScorcher/BARS/releases). If the plugin is installed correctly, and your position is selected at a [compatible airport](#compatible-airports), there will be an BARS option in the Window dropdown menu of vatSys.
 
+<figure>
+    <img src="../Assets/BARS_plugin_install.png" width="480">
+    <figcaption></figcaption>
+</figure>
+
 ### Connection
 After launching vatSys, the BARS Ground plugin will automatically open. To get started, click the "Claim Airport" button. Additionally, within the control bar a status message will display important information of the current state. This status message will show if the airport is claimed, and what runways, if any are claimed. 
 
