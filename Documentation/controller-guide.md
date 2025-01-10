@@ -59,7 +59,7 @@ Once the control bar has been successfully configured, click just above the grou
 
 Aircraft on the maneuvering area must stop and hold at all illuminated stopbars, proceeding only after receiving clearance. Once clearance to enter or cross a runway is given, click on the corresponding stopbar to allow the aircraft to proceed. After the aircraft clears the area, click on the stopbar again to reactivate it.
 
-In the real world, the lights turn on again after a fixed period of time (approximately 45 seconds). This feature has also been implemented, if a controller forgets to reactive the stopbar, after 45 seconds it will come back up.
+In the real world, the lights turn on again after a fixed period of time (approximately 45 seconds). This feature has also been implemented, if a controller forgets to reactivate the stopbar, after 45 seconds it will come back up.
 
 <br>
 
