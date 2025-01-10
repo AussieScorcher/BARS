@@ -35,11 +35,6 @@ After claiming the airport, controllers **must** choose the active runways. Sele
 
 Once the control bar has been successfully configured, click just above the ground map to minimize it. This action reduces the control bar's size, freeing up additional screen space while still retaining key information at the top, such as connection status, and the current Zulu time.
 
-<figure markdown>
-![Control Bar](Assets/BARS_control_bar.gif){ width="500" }
-    <figcaption>BARS Control Bar</figcaption>
-</figure>
-
 <figure>
     <img src="Assets/BARS_control_bar.gif" width="450">
     <figcaption>BARS Control Bar</figcaption>
