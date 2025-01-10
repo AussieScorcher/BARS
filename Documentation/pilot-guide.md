@@ -1,0 +1,58 @@
+# Pilot Guide
+
+In the real world, aerodrome controllers use stopbars as a bar of illuminated lights preventing aircraft from entering active runways. Within Microsoft Flight Simulator, this can be emulated using the BARS Ground client. Stopbar state is shared between pilots and controllers participating in the plugin.
+
+> [!CAUTION]  
+>  As of January 10, 2025, in MSFS 2020, due to simulator limits, the stopbar lights may not render until closer to the holding point. However, this does not affect the stopbar's functionality and will operate as intended.
+
+## Setup
+
+### Installation  
+The BARS Ground client <ins> for pilots </ins> can be installed through [Github Releases](https://github.com/AussieScorcher/BARS/releases). If the client is installed correctly, you should be able to search for "BARS Client" in windows, once opened the client will be minimzed into the desktop taskbar tray.
+
+<br>
+
+<figure>
+    <img src="../Assets/BARS_client_install.png" width="450">
+    <figcaption></figcaption>
+</figure>
+
+<br>
+
+### Connection
+Upon launching your preferred simulator, the BARS Ground client will automatically open. Once located at a [compatible airport](#compatible-airports), locate the BARS Client icon in the desktop taskbar tray, right-click, and select "Show." The client will display important information, including the current status, the closest airport, and the number of stopbars spawned. 
+
+<br>
+
+<figure>
+    <img src="../Assets/BARS_client_connection.png" width="300">
+    <figcaption></figcaption>
+</figure>
+
+<br>
+
+### Third Party Scenery
+To configure BARS Ground for third-party scenery, reopen the BARS Client from the desktop taskbar tray after the initial installation. Navigate to the "Scenery Section" title, find the compatible airport's ICAO code, and click the dropdown menu. Select your payware scenery and click the "Restart to Apply" button at the bottom. This will restart the BARS Ground client, and once completed, stopbars will be successfully configured for your favorite payware airports.
+
+<br>
+
+<figure>
+    <img src="../Assets/BARS_client_scenery.gif" width="300">
+    <figcaption></figcaption>
+</figure>
+
+<br>
+
+## Compatible Airports & Scenery
+
+| **Airport ICAO** | **Scenery**                  |
+|--------------|--------------------------|
+| YBBN         | Orbx Brisbane, iniBuilds Brisbane |
+| YSSY         | FlyTampa Sydney          |
+| YSCB         | Impulse Sim Canberra     |
+| YMML         | Orbx Melbourne           |
+| YPPH         | Axonox Perth             |
+
+### Reporting BARS Ground Client Issues
+
+%localappdata%/BARS

@@ -44,7 +44,7 @@ To install the addon, go to the GitHub releases section and download the latest 
 <br>
 </details>
 
----
+--- 
 
 <details>
 <summary> What airports are compatible with BARS Ground? </summary>
@@ -65,9 +65,18 @@ To install the addon, go to the GitHub releases section and download the latest 
 ---
 
 <details>
+<summary> What if the pilot is using the addon, but the controller isn't? </summary>
+<br>
+<ul> <li> If the controller isn't using the addon, they wouldn't be able to claim the airport. Without the airport claimed by a controller, BARS will detect that no ATC is online actively using the plugin. Therefore, the stopbars won't be spawned. </li> </ul>
+<br>
+</details>
+
+---
+
+<details>
 <summary> Does BARS Ground impact performance? </summary>
 <br>
-<ul> <li> BARS Ground has no impact on performance. The install size for both the plugin and client is minimal, and stopbar lights are only loaded when you are within a certain distance from the holding point, or when ATC is online. </li> </ul>
+<ul> <li> BARS Ground has no impact on performance. The install size for both the plugin and client is extremely small, and stopbar lights are only loaded when you are within a certain distance from the holding point, or when ATC is online. </li> </ul>
 <br>
 </details>
 
@@ -115,6 +124,10 @@ To install the addon, go to the GitHub releases section and download the latest 
 <ul> <li> Navigate to your computer’s “Add/Remove Programs” window, search for BARS, and uninstall the relevant components. </li> </ul>
 <br>
 </details>
+
+---
+
+<br>
 
 If you have any additional questions that you believe would be relevant for this section, please feel free to submit them through the GitHub repository issues or reach out to the maintainers via Discord.
 

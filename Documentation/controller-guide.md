@@ -21,7 +21,7 @@ After launching vatSys, the BARS Ground plugin will automatically open. To get s
 <br>
 
 <figure>
-    <img src="Assets/BARS_connection.png" width="450">
+    <img src="../Assets/BARS_connection.png" width="450">
     <figcaption></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ After claiming the airport, controllers **must** choose the active runways. Sele
 <br>
 
 <figure>
-    <img src="Assets/BARS_selecting_runways.gif" width="450">
+    <img src="../Assets/BARS_selecting_runways.gif" width="450">
     <figcaption></figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Once the control bar has been successfully configured, click just above the grou
 <br>
 
 <figure>
-    <img src="Assets/BARS_control_bar.gif" width="450">
+    <img src="../Assets/BARS_control_bar.gif" width="450">
     <figcaption></figcaption>
 </figure>
 
@@ -65,13 +65,9 @@ In the real world, the lights turn on again after a fixed period of time (approx
 <br>
 
 <figure>
-    <img src="Assets/BARS_stopbar.gif" width="470">
+    <img src="../Assets/BARS_stopbar.gif" width="470">
     <figcaption></figcaption>
 </figure>
-
-## Runway Crossing
-
-After coordination has been complete for aircraft to cross a duty runway, it is ADC's responsibility to drop the stopbar at the relevant crossing point, then reactivate the stopbar once the crossing is complete.
 
 ## Duel ADC Positions
 
@@ -80,6 +76,12 @@ If multiple ADC controllers are present at one airport, each controller will be 
 <br>
 
 <figure>
-    <img src="Assets/BARS_duel_adc.png" width="330">
+    <img src="../Assets/BARS_duel_adc.png" width="330">
     <figcaption></figcaption>
 </figure>
+
+<br>
+
+## Runway Crossing
+
+After coordination has been complete for aircraft to cross a duty runway, it is ADC's responsibility to drop the stopbar at the relevant crossing point, then reactivate the stopbar once the crossing is complete.
