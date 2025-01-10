@@ -9,8 +9,8 @@ Designed for easy use, BARS Ground simulates realistic stopbar operations on VAT
 
 ## Documentation
 
-- [Controller Guide](controller-guide.md)
-- [Pilot Guide](pilot-guide.md)
+- [Controller Guide](Documentation/controller-guide.md)
+- [Pilot Guide](Documentation/pilot-guide.md)
 
 
 ## Installation [![GitHub latest release version](https://img.shields.io/github/v/release/AussieScorcher/BARS.svg?style=flat)](https://github.com/AussieScorcher/BARS/releases/latest) [![Flightsim.to](https://img.shields.io/badge/Flightsim.to-View%20Plugin-blue?logo=flightsim)](https://flightsim.to/)
