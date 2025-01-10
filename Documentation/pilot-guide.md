@@ -2,6 +2,8 @@
 
 In the real world, aerodrome controllers use stopbars as a bar of illuminated lights preventing aircraft from entering active runways. Within Microsoft Flight Simulator, this can be emulated using the BARS Ground client. Stopbar state is shared between pilots and controllers participating in the plugin.
 
+<br>
+
 > [!WARNING]  
 >  Due to simulator limitations in MSFS 2020, the stopbar lights may not render until closer to the holding point. However, this does not affect the stopbar's functionality and will operate as intended.
 
