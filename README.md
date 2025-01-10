@@ -80,6 +80,8 @@ To install the addon, go to the GitHub releases section and download the latest 
 <br>
 </details>
 
+---
+
 <details>
 <summary> What happens I want to fly offline the network? </summary>
 <br>
