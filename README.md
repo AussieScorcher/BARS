@@ -71,7 +71,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 ---
 
 <details>
-<summary> What if the pilot is using the addon, but the controller isn't? </summary>
+<summary> What if the pilot is using the addon, but the controller isn't, vice versa? </summary>
 <br>
 <ul> <li> If the controller isn't using the addon, they wouldn't be able to claim the airport. Without the airport claimed by a controller, BARS will detect that no ATC is online actively using the plugin. Therefore, the stopbars won't be spawned. </li> </ul>
 <br>
@@ -109,7 +109,14 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> Is there any documentation available for advanced features? </summary>
 <br>
-<ul> <li> Comprehensive guides and documentation for both controllers and pilots are accessible via the GitHub repository, with direct links provided at the top of this README for ease of access. </li> </ul>
+<ul> <li> Comprehensive guides and documentation for both controllers and pilots are accessible via the GitHub repository, with direct links provided at the top of this README for ease of access. 
+
+<br>
+
+- [Controller Guide](Documentation/controller-guide.md)
+- [Pilot Guide](Documentation/pilot-guide.md)
+
+</li> </ul>
 <br>
 </details>
 
@@ -118,7 +125,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> How do I report bugs or issues with the client or plugin? </summary>
 <br>
-<ul> <li> You can report issues through the GitHub repository or contact the maintainers via Discord. </li> </ul>
+<ul> <li> You can report issues through the GitHub repository or create a user report through the BARS Discord Server. </li> </ul>
 <br>
 </details>
 
