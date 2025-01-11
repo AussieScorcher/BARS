@@ -33,6 +33,15 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 ## FAQ
 
 <details>
+<summary> Why do the stopbars turn green instead of just off like the real world? </summary>
+<br>
+<ul> <li> In the current version, the stopbars are green to help pilots on the network who might not fully understand the signal. Our goal is to make the simulation as realistic as possible for all users. For the next update, we will be implementing a more realistic option, giving pilots the ability to select their preferred stopbar color in the client. </li> </ul>
+<br>
+</details>
+
+---
+
+<details>
 <summary>What controlling clients are supported? </summary>
 <br>
 <ul> <li> BARS is compatible with vatSys </li> </ul>
