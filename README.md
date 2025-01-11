@@ -9,8 +9,8 @@ Designed for easy use, BARS simulates realistic stopbar operations on VATSIM, al
 
 <br>
 
-<a href="https://ko-fi.com/bars_">
-  <img src="https://img.shields.io/badge/Donate%20to%20keep%20BARS%20alive%20and%20free!-green?style=flat&logo=ko-fi&logoColor=white" alt="Donate to keep BARS alive and free!" style="width:300px;">
+<a href="https://ko-fi.com/stopbars">
+  <img src="https://img.shields.io/badge/Donate%20to%20keep%20BARS%20alive%20and%20free!-darkgreen?style=flat&logo=ko-fi&logoColor=white" alt="Donate to keep BARS alive and free!" style="width:300px;">
 </a>
 
 <br>
