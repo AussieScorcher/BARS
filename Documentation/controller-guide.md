@@ -85,7 +85,7 @@ If multiple ADC controllers are present at one airport, each controller will be 
 
 ## Runway Crossing
 
-After coordination has been complete for aircraft to cross a duty runway, it is ADC's responsibility to drop the stopbar at the relevant crossing point, then reactivate the stopbar once the crossing is complete.
+After coordination has been completed for aircraft to cross a duty runway, it is ADC's responsibility to drop the stopbar at the relevant crossing point, and then reactivate the stopbar once the crossing is complete.
 
 <br>
 
