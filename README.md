@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AussieScorcher/BARS/dev/Assets/BARS.png" width="200" height="200">
+<img src="https://raw.githubusercontent.com/AussieScorcher/BARS/main/Assets/BARS.png" width="200" height="200">
 
 
 # BARS - Stopbar Simulation
