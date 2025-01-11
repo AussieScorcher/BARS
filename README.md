@@ -44,7 +44,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary>What controlling clients are supported? </summary>
 <br>
-<ul> <li> BARS is compatible with vatSys </li> </ul>
+<ul> <li> BARS is compatible with vatSys. </li> </ul>
 <br>
 </details>
 
@@ -62,7 +62,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> What if I have third party scenery installed? </summary>
 <br>
-<ul> <li> Within the BARS client, navigate to the "Scenery Section" tab. Select the desired scenery to configure the stopbar placement to match your installed payware scenery. </li> </ul>
+<ul> <li> Within the BARS client, navigate to the "Scenery Section" tab. Select the desired third party scenery to configure the stopbar placement to match your installed payware scenery. </li> </ul>
 <br>
 </details>
 
@@ -71,7 +71,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> What airports are compatible with BARS? </summary>
 <br>
-<ul> <li> BARS currently supports; YBBN, YSSY, YSCB, YMML, and YPPH. </li> </ul>
+<ul> <li> BARS currently supports; YBBN, YSSY, YSCB, YMML, and YPPH. With plans to expand to as many airports as possible. </li> </ul>
 <br>
 </details>
 
@@ -80,7 +80,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> How do stopbars sync between controllers and pilots? </summary>
 <br>
-<ul> <li> The BARS plugin communicates with the client via a backend server. It updates stopbar lighting in your simulator through SimConnect and SimObjects, functioning similarly to how popular add-ons like GSX work. </li> </ul>
+<ul> <li> The BARS plugin communicates with the client via the backend server. It updates stopbar lighting in your simulator through SimConnect and SimObjects, functioning similarly to how popular add-ons like GSX work. </li> </ul>
 <br>
 </details>
 
@@ -89,7 +89,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> What if the pilot is using the addon, but the controller isn't, vice versa? </summary>
 <br>
-<ul> <li> If the controller isn't using the addon, they wouldn't be able to claim the airport. Without the airport claimed by a controller, BARS will detect that no ATC is online actively using the plugin. Therefore, the stopbars won't be spawned. </li> </ul>
+<ul> <li> If the controller isn't using the addon, they wouldn't be able to claim the airport. Without the airport claimed by a controller, BARS will think that no ATC is online actively using the plugin. Therefore, the stopbars won't be spawned. </li> </ul>
 <br>
 </details>
 
@@ -107,7 +107,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> What happens if there is no ATC online? </summary>
 <br>
-<ul> <li> If no ATC is online, the BARS client will not spawn any stopbars, further optimizing performance. </li> </ul>
+<ul> <li> If no ATC is online, the BARS client will not spawn any stopbars.  </li> </ul>
 <br>
 </details>
 
@@ -116,7 +116,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> What happens if I want to fly offline the network? </summary>
 <br>
-<ul> <li> When flying offline, BARS does not detect your connection status as offline. As a result, stopbars may still appear in your simulator when ATC is online. To remove this issue, simply <ins> close the BARS client </ins> from your desktop taskbar try. This will remove the stopbars from your simulator, not affecting your offline experience. </li> </ul>
+<ul> <li> When flying offline, BARS does not detect your connection status as offline. As a result, stopbars may still appear in your simulator when ATC is online. To remove this issue, simply close the BARS client from your desktop taskbar try. This will remove the stopbars from your simulator, not affecting your offline experience. </li> </ul>
 <br>
 </details>
 
@@ -141,7 +141,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> How do I report bugs or issues with the client or plugin? </summary>
 <br>
-<ul> <li> You can report issues through the GitHub repository or create a user report through the BARS [Discord Server](https://discord.gg/7SQgbc554K). </li> </ul>
+<ul> <li> You can report issues through the GitHub repository or create a user report through the BARS Discord Server (https://discord.gg/7SQgbc554K). </li> </ul>
 <br>
 </details>
 
@@ -150,7 +150,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> How do I uninstall BARS client / plugin if I no longer need it? </summary>
 <br>
-<ul> <li> Navigate to your computer’s “Add/Remove Programs” window, search for BARS, and uninstall the relevant components. </li> </ul>
+<ul> <li> Navigate to your computer’s “Add/Remove Programs” window, search for BARS, and uninstall the relevant application. </li> </ul>
 <br>
 </details>
 
@@ -161,4 +161,4 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 ### Reporting BARS Ground Issues
 
 > [!TIP]  
->  If you encounter any issues with BARS, you can report them via the GitHub repository's "Issues" tab or by messaging a maintainer directly through Discord. When submitting an issue, it’s essential to include as much detail as possible to help troubleshoot. If required, you may need to provide the log file generated by BARS. These logs can be found in your `%localappdata%/BARS` file.
+>  If you encounter any issues with BARS, you can report them via the GitHub repository's "Issues" tab or by creating a user report through the BARS Discord Server. When submitting an issue, it’s essential to include as much detail as possible to help with troubleshooting. If required, you may need to provide the log file generated by BARS. These logs can be found in your `%localappdata%/BARS` directory. Save a copy of this file ASAP, as after every launch logs are deleted.
