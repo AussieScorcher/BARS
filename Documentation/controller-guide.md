@@ -25,6 +25,8 @@ The BARS plugin can be installed through [Github releases](https://github.com/Au
 ### Connection
 After launching vatSys, the BARS plugin will automatically open. To get started, click the "Claim Airport" button. Additionally, within the control bar a status message will display important information of the current state. This status message will show if the airport is claimed, and what runways, if any are claimed. 
 
+After vatSys closes, BARS retains your airport and runway claims for 2 minutes, ensuring that in case of a vatSys crash, you won’t need to reclaim them upon reload; additionally, if you forget to manually unclaim, BARS will automatically unclaim all runways and airports after closing vatSys.
+
 <br>
 
 <figure>
