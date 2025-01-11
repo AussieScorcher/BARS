@@ -19,7 +19,7 @@ Designed for easy use, BARS simulates realistic stopbar operations on VATSIM, al
 - [Pilot Guide](Documentation/pilot-guide.md)
 
 
-## Installation ![Discord](https://img.shields.io/discord/1323993176318414889)
+## Installation [![Discord](https://img.shields.io/badge/Join-Discord-7289da?logo=discord&logoColor=white)](https://discord.gg/7SQgbc554K)
 
 To install the addon, go to the [Github releases](https://github.com/AussieScorcher/BARS/releases) section and download the latest version. Choose the relevant installer: **"plugin" for controllers** or **"client" for pilots**. Once downloaded, simply run the installer, go through the setups, and everything will automatically be set up for you. Detailed guides for installation for both the client and plugin can be found in  documentation.
 
