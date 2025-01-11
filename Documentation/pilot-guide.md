@@ -22,7 +22,7 @@ The BARS client <ins> for pilots </ins> can be installed through [Github release
 <br>
 
 ### Connection
-Upon launching your preferred simulator, the BARS client will have automatically opened. Once spawned at a [compatible airport](#compatible-airports--scenery), locate the BARS Client icon in the desktop taskbar tray, right-click, and select "Show." The client will display important information, including the current status, the closest airport, and the number of stopbars spawned. 
+Upon launching your preferred simulator, the BARS client will have automatically opened. Once spawned at a [compatible airport](#compatible-airports--scenery), locate the BARS Client icon in the desktop taskbar tray, right-click, and select "Show." The client will display important information, including the current status, the closest airport, and the number of stopbars spawned. Note; if a controller connects to the network it will take 2 minutes for the stopbars to load within your simulator. 
 
 <br>
 
