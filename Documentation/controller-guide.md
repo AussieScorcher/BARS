@@ -5,7 +5,7 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 <br>
 
 > [!IMPORTANT]  
-> BARS can be an incredibly useful tool to simulate the use of stopbars, but it's use is **not compulsory**. It is highly recommended controllers should revert to the default vatSys usage if the use of BARS is becoming a hinderance to themselve.
+> BARS can be an incredibly useful tool to simulate the use of stopbars, but its use is **not compulsory**. It is highly recommended controllers should revert to the default vatSys usage if the use of BARS is becoming a hinderance to themselves.
 
 > [!NOTE]  
 > Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS stopbar functionality should only be utilised by **Tower (S2) or Approach (S3) controllers**. BARS will check the connection callsign, as long as you are connected as Tower or Approach, it will be available.
@@ -70,7 +70,7 @@ In the real world, the lights turn on again after a fixed period of time (approx
     <figcaption></figcaption>
 </figure>
 
-## Duel ADC Positions
+## Dual ADC Positions
 
 If multiple ADC controllers are present at one airport, each controller will be able to claim the runway within their respective jurisdiction through the [select runways](#select-runways) menu. Once a runway has been claimed, other controllers will no longer be able to claim it.
 
