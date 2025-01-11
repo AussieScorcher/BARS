@@ -3,7 +3,7 @@
 
 # BARS - Stopbar Simulation
 
-BARS revolutionizes your VATSIM experience with realistic Stopbar Simulation. Fully compatible with Microsoft Flight Simulator 2024 and 2020, it integrates effortlessly with both default and third-party sceneries. Our custom installer makes setup effortlessly, the pilot client launches automatically with your simulator requiring no extra steps.
+BARS revolutionize your VATSIM experience with realistic Stopbar Simulation. Fully compatible with Microsoft Flight Simulator 2024 and 2020, it integrates effortlessly with default and third-party sceneries. Our custom installer makes setup effortlessly, the pilot client launches automatically with your simulator requiring no extra steps.
 
 Designed for easy use, BARS simulates realistic stopbar operations on VATSIM, allowing controllers and pilots to interact with lifelike stopbar procedures. With zero impact on performance, it accurately replicates stopbar usage for taxiing and ground traffic management, creating a more immersive and realistic experience on the VATSIM network.
 
@@ -28,7 +28,7 @@ Designed for easy use, BARS simulates realistic stopbar operations on VATSIM, al
 
 ## Installation
 
-To install the addon, go to the [Github releases](https://github.com/AussieScorcher/BARS/releases) section and download the latest version. Choose the relevant installer: **"plugin" for controllers** or **"client" for pilots**. Once downloaded, simply run the installer, go through the setups, and everything will automatically be set up for you. Detailed guides for installation for both the client and plugin can be found in  documentation.
+To install the addon, go to the [Github releases](https://github.com/AussieScorcher/BARS/releases) section and download the latest version. Choose the relevant installer: **"plugin" for controllers** or **"client" for pilots**. Once downloaded, simply run the installer, go through the setups, and everything will automatically be set up for you. Detailed guides for installation for both the client and plugin can be found in the documentation.
 
 ## FAQ
 
@@ -60,9 +60,9 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 ---
 
 <details>
-<summary> What if I have third party scenery installed? </summary>
+<summary> What if I have third-party scenery installed? </summary>
 <br>
-<ul> <li> Within the BARS client, navigate to the "Scenery Section" tab. Select the desired third party scenery to configure the stopbar placement to match your installed payware scenery. </li> </ul>
+<ul> <li> Within the BARS client, navigate to the "Scenery Section" tab. Select the desired third-party scenery to configure the stopbar placement to match your installed payware scenery. </li> </ul>
 <br>
 </details>
 
@@ -87,7 +87,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 ---
 
 <details>
-<summary> What if the pilot is using the addon, but the controller isn't, vice versa? </summary>
+<summary> What if the pilot is using the addon, but the controller isn't, and vice versa? </summary>
 <br>
 <ul> <li> If the controller isn't using the addon, they wouldn't be able to claim the airport. Without the airport claimed by a controller, BARS will think that no ATC is online actively using the plugin. Therefore, the stopbars won't be spawned. </li> </ul>
 <br>
@@ -116,7 +116,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 <details>
 <summary> What happens if I want to fly offline the network? </summary>
 <br>
-<ul> <li> When flying offline, BARS does not detect your connection status as offline. As a result, stopbars may still appear in your simulator when ATC is online. To remove this issue, simply close the BARS client from your desktop taskbar try. This will remove the stopbars from your simulator, not affecting your offline experience. </li> </ul>
+<ul> <li> When flying offline, BARS does not detect your connection status as offline. As a result, stopbars may still appear in your simulator when ATC is online. To remove this issue, simply close the BARS client from your desktop taskbar tray This will remove the stopbars from your simulator, not affecting your offline experience. </li> </ul>
 <br>
 </details>
 
@@ -148,7 +148,7 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 ---
 
 <details>
-<summary> How do I uninstall BARS client / plugin if I no longer need it? </summary>
+<summary> How do I uninstall BARS client or plugin if I no longer need it? </summary>
 <br>
 <ul> <li> Navigate to your computer’s “Add/Remove Programs” window, search for BARS, and uninstall the relevant application. </li> </ul>
 <br>
