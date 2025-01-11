@@ -22,7 +22,7 @@ The BARS client <ins> for pilots </ins> can be installed through [Github release
 <br>
 
 ### Connection
-Upon launching your preferred simulator, the BARS client will have automatically opened. Once spawned at a [compatible airport](#compatible-airports--scenery), locate the BARS Client icon in the desktop taskbar tray, right-click, and select "Show." The client will display important information, including the current status, the closest airport, and the number of stopbars spawned. Note; if a controller connects to the network it will take 2 minutes for the stopbars to load within your simulator. 
+Upon launching your preferred simulator, the BARS client will have automatically opened. Once spawned at a [compatible airport](#compatible-airports--scenery), **locate the BARS Client icon in the desktop taskbar tray, right-click, and select "Show."*** The client will display important information, including the current status, the closest airport, and the number of stopbars spawned. Note; if a controller connects to the network it will take a max of 2 minutes for the stopbars to load within your simulator. 
 
 <br>
 
@@ -34,7 +34,7 @@ Upon launching your preferred simulator, the BARS client will have automatically
 <br>
 
 ### Third Party Scenery
-To configure BARS for third-party scenery, reopen the BARS Client from the desktop taskbar tray after the initial installation. Navigate to the "Scenery Section" title, find the compatible airport's ICAO code, and click the dropdown menu. Select your payware scenery and click the "Restart to Apply" button at the bottom. This will restart the BARS client, and once completed, stopbars will be successfully configured for your favorite payware airports.
+To configure BARS for third-party scenery, reopen the BARS Client from the desktop taskbar tray after the initial installation. Navigate to the "Scenery Section" title, find the compatible airport, and click the dropdown menu. Select your payware scenery and click the "Restart to Apply" button at the bottom. This will restart the BARS client, and once completed, stopbars will be successfully configured for your favorite payware airports.
 
 <br>
 
