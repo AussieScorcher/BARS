@@ -1,14 +1,15 @@
 # Controller Guide
 
-In the real world, aerodrome controllers use stopbars as a bar of illuminated lights preventing aircraft from entering active runways. Within vatSys, this can be emulated using the BARS plugin. Stopbar state is shared between controllers and pilots participating in the plugin.
+
+In the real world, aerodrome controllers use stop bars, a row of illuminated lights, to prevent aircraft from entering active runways. In vatSys, this is simulated through the BARS plugin, which synchronizes the stop bar status between controllers and pilots both using the addon.
 
 <br>
 
 > [!IMPORTANT]  
-> BARS can be an incredibly useful tool to simulate the use of stopbars, but its use is **not compulsory**. It is highly recommended controllers should revert to the default vatSys usage if the use of BARS is becoming a hinderance to themselves.
+> BARS is a highly useful tool for simulating the use of stop bars, but its use is **not compulsory**. If controllers find that using BARS is becoming a hindrance or negatively impacting their workflow, it is strongly recommended that they revert to the default vatSys functionality.
 
 > [!NOTE]  
-> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS stopbar functionality should only be utilised by **Tower (S2) or Approach (S3) controllers**. BARS will check the connection callsign, as long as you are connected as Tower or Approach, it will be available.
+> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS stopbar functionality should only be used by **Tower (S2) or Approach (S3) controllers**. BARS will check the connection callsign, as long as you are connected as Tower or Approach, it will be available.
 
 ## Setup
 
