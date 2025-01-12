@@ -5,7 +5,7 @@ In the real world, aerodrome controllers use stopbars as a bar of illuminated li
 <br>
 
 > [!WARNING]  
-> Due to simulator limitations in MSFS 2020, the stopbar lights may not render until closer to the holding point. However, this does not affect the stopbar's functionality and will operate as intended. Additionally, **it is required** to enable the bloom setting, as without it, the visual effects of the stopbars will not work.
+> Due to simulator limitations in MSFS 2020, the stopbar lights may not render until closer to the holding point. However, this does not affect the stopbar's functionality and will operate as intended. Additionally, **it is recommended** to enable the bloom setting, as without it, the visual effects of the stopbars will not be accurate.
 
 ## Setup
 
