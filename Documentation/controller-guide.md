@@ -5,11 +5,8 @@ In the real world, aerodrome controllers use stop bars, a row of illuminated lig
 
 <br>
 
-> [!IMPORTANT]  
-> BARS is a highly useful tool for simulating the use of stop bars, but its use is **not compulsory**. If controllers find that using BARS is becoming a hindrance or negatively impacting their workflow, it is strongly recommended that they revert to the default vatSys functionality.
-
 > [!NOTE]  
-> Stopbars are positioned at runways, which by default are under the sole jurisdiction of ADC controllers. BARS stopbar functionality should only be used by **Tower (S2) or Approach (S3) controllers**. BARS will check the connection callsign, as long as you are connected as Tower or Approach, it will be available.
+> BARS should only be used by **Ground (S1) up to Approach (S3)**. The use of BARS is not suitable for enroute controllers, especially when providing topdown coverage for multiple airports. BARS will check the connection callsign, as long as you are connected as Ground, Tower, or Approach, BARS will be available.
 
 ## Setup
 
