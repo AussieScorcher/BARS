@@ -6,7 +6,7 @@ In the real world, aerodrome controllers use stop bars, a row of illuminated lig
 <br>
 
 > [!NOTE]  
-> BARS should only be used by **Ground (S1) up to Approach (S3)**. The use of BARS is not suitable for enroute controllers, especially when providing topdown coverage for multiple airports. BARS will check the connection callsign, as long as you are connected as Ground, Tower, or Approach, BARS will be available.
+> BARS should only be used by **Ground (S1) up to Approach (S3)**. The use of BARS is currently not suitable for enroute controllers, especially when providing topdown coverage for multiple airports. BARS will check the connection callsign, as long as you are connected as Ground, Tower, or Approach, BARS will be available.
 
 ## Setup
 
@@ -49,7 +49,7 @@ After vatSys closes, BARS retains your airport and runway claims for 2 minutes, 
 <br>
 
 ### Select Runways
-After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways stopbars will appear on the BARS map. Unselected runways will have their stopbars turn green automatically. For operations where multiple ADC controllers are present, see [Duel ADC Positions](#duel-adc-positions).
+After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways stopbars will appear on the BARS map. Unselected runways will have their stopbars turn green automatically. For operations with multiple ADC controllers, see [Dual ADC Positions](#dual-adc-positions).
 
 <br>
 
