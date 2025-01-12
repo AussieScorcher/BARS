@@ -49,11 +49,11 @@ To configure BARS for third-party scenery, reopen the BARS Client from the deskt
 
 | **Airport ICAO** | **Scenery**                  |
 |--------------|--------------------------|
-| YBBN         | iniBuilds Brisbane, Orbx Brisbane |
-| YSSY         | FlyTampa Sydney          |
-| YSCB         | Impulse Sim Canberra     |
-| YMML         | Orbx Melbourne           |
-| YPPH         | Axonos Perth             |
+| YBBN         | MSFS Default, iniBuilds Brisbane, Orbx Brisbane |
+| YSSY         | MSFS Default, FlyTampa Sydney          |
+| YSCB         | MSFS Default, Impulse Sim Canberra     |
+| YMML         | MSFS Default, Orbx Melbourne           |
+| YPPH         | MSFS Default, Axonos Perth             |
 
 <br>
 
