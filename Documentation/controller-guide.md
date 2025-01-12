@@ -11,12 +11,26 @@ In the real world, aerodrome controllers use stop bars, a row of illuminated lig
 ## Setup
 
 ### Installation  
-The BARS plugin can be installed through [Github releases](https://github.com/AussieScorcher/BARS/releases). If the plugin is installed correctly, and your position is selected at a [compatible airport](#compatible-airports), there will be an BARS option in the Window dropdown menu of vatSys.
+
+Before installing the BARS plugin, controllers are required to obtain a token through the [BARS](https://stopbars.com) website. Sign up for an account first, then inside the "Account Settings" click "Show Token" to obtain your token. Do not share this token with anyone.
+
+After creating an account, BARS plugin can be installed through Github [releases](https://github.com/AussieScorcher/BARS/releases). If the plugin is installed correctly, and your position is selected at a [compatible airport](#compatible-airports), there will be a "BARS Settings" option in the Window dropdown menu of vatSys. 
 
 <br>
 
 <figure>
-    <img src="../Assets/BARS_plugin_install.png" width="480">
+    <img src="../Assets/BARS_settings.png" width="350">
+    <figcaption></figcaption>
+</figure>
+
+<br>
+
+Within the BARS Settings menu, you can paste in your token.
+
+<br>
+
+<figure>
+    <img src="../Assets/BARS_token.png" width="450">
     <figcaption></figcaption>
 </figure>
 
@@ -31,6 +45,8 @@ After vatSys closes, BARS retains your airport and runway claims for 2 minutes, 
     <img src="../Assets/BARS_connection.png" width="450">
     <figcaption></figcaption>
 </figure>
+
+<br>
 
 ### Select Runways
 After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways stopbars will appear on the BARS map. Unselected runways will have their stopbars turn green automatically. For operations where multiple ADC controllers are present, see [Duel ADC Positions](#duel-adc-positions).
