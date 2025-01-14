@@ -48,7 +48,7 @@ After vatSys closes, BARS retains your airport and runway claims for 2 minutes, 
 <br>
 
 ### Select Runways
-After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways stopbars will appear on the BARS map. Unselected runways will have their stopbars turn green automatically. For operations where multiple ADC controllers are present, see [Duel ADC Positions](#duel-adc-positions).
+After claiming the airport, controllers **must** choose the active runways. Selecting a runway claims its stopbars for only you, and only those runways stopbars will appear on the BARS map. Unselected runways will have their stopbars turn green automatically. For operations with multiple ADC controllers, see [Dual ADC Positions](#dual-adc-positions).
 
 <br>
 
