@@ -5,16 +5,13 @@ In the real world, aerodrome controllers use stop bars, a row of illuminated lig
 
 <br>
 
-> [!NOTE]  
-> BARS should only be used by **Ground (S1) up to Approach (S3)**. The use of BARS is not suitable for enroute controllers, especially when providing topdown coverage for multiple airports. BARS will check the connection callsign, as long as you are connected as Ground, Tower, or Approach, BARS will be available.
-
 ## Setup
 
 ### Installation  
 
-Before installing the BARS plugin, controllers are required to obtain a token through the [BARS](https://stopbars.com) website. Sign up for an account first, then inside the "Account Settings" click "Show Token" to obtain your token. Do not share this token with anyone.
+Before installing the BARS Plugin, controllers are required to obtain a token through the [BARS Website](https://stopbars.com). Sign up for an account first, then inside the "Account Settings" page, click "Show Token" to obtain your token. Do not share this token with anyone.
 
-After creating an account, BARS plugin can be installed through Github [releases](https://github.com/AussieScorcher/BARS/releases). If the plugin is installed correctly, and your position is selected at a [compatible airport](#compatible-airports), there will be a "BARS Settings" option in the Window dropdown menu of vatSys. 
+After creating an account, BARS Plugin can be installed through the [BARS Website](https://stopbars.com). If the plugin is installed correctly, and your position is selected at a [compatible airport](#compatible-airports), there will be a "BARS Settings" option in the Window dropdown menu of vatSys. 
 
 <br>
 
@@ -25,14 +22,16 @@ After creating an account, BARS plugin can be installed through Github [releases
 
 <br>
 
-Within the BARS Settings menu, you can paste in your token.
+Within the BARS Settings menu, you can paste in your token. Additionally, a togglable "SMR On Ground" option is available within the BARS Settings window. When enabled, the BARS Ground window will displays any pilots connected with the client.
 
 <br>
 
 <figure>
-    <img src="../Assets/BARS_token.png" width="450">
+    <img src="../Assets/BARS_token.png" width="500">
     <figcaption></figcaption>
 </figure>
+
+<br>
 
 ### Connection
 After launching vatSys, the BARS plugin will automatically open. To get started, click the "Claim Airport" button. Additionally, within the control bar a status message will display important information of the current state. This status message will show if the airport is claimed, and what runways, if any are claimed. 
@@ -75,7 +74,7 @@ Once the control bar has been successfully configured, click just above the grou
 
 Aircraft on the maneuvering area must stop and hold at all illuminated stopbars, proceeding only after receiving clearance. Once clearance to enter or cross a runway is given, click on the corresponding stopbar to allow the aircraft to proceed. After the aircraft clears the area, click on the stopbar again to reactivate it.
 
-In the real world, the lights turn on again after a fixed period of time (approximately 45 seconds). This feature has also been implemented, if a controller forgets to reactivate the stopbar, after 45 seconds it will come back up.
+In the real world, the lights turn off again after a fixed period of time (approximately 45 seconds). This feature has also been implemented, if a controller forgets to reactivate the stopbar, after 45 seconds it will come back up.
 
 <br>
 
@@ -97,9 +96,26 @@ If multiple ADC controllers are present at one airport, each controller will be 
 
 <br>
 
+## Enroute Usage
+
+BARS Plugin suports stopbar usage for C1/C3 Centre controllers, however it's initial setup is slightly different. When connected to the center position, within vatSys go to Windows > BARS and enter the four-letter ICAO code for the airport you want to control.
+
+<br>
+
+<figure>
+    <img src="../Assets/BARS_enter_icao.png" width="400">
+    <figcaption></figcaption>
+</figure>
+
+<br>
+
+After entering the 4 letter ICAO code, you will be able to operate stopbars normally. The current version of BARS only supports one window at a time when connected to a Centre position, limiting you to controlling stopbars for a single airport. Future updates planned will allow multiple windows and airports to be managed at once.
+
+<br>
+
 ## Runway Crossing
 
-After coordination has been completed for aircraft to cross a duty runway, it is ADC's responsibility to drop the stopbar at the relevant crossing point, and then reactivate the stopbar once the crossing is complete.
+After coordination has been completed for aircraft to cross a duty runway, it is ADC's responsibility to drop the stopbar at the relevant crossing point, and then reactivate the stopbar once the crossing is complete. 
 
 <br>
 
