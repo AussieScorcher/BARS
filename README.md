@@ -156,7 +156,14 @@ To install the addon, go to the [Github releases](https://github.com/AussieScorc
 
 ---
 
+<details>
+<summary> Does BARS modify the scenery files? </summary>
+<br>
+<ul> <li> No, BARS does not modify any scenery files. The stopbar lights are dynamically spawned on top of the default or third-party scenery. </li> </ul>
+<br>
+</details>
 
+---
 
 ### Reporting BARS Ground Issues
 
